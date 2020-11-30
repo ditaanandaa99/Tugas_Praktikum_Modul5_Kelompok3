@@ -19,7 +19,7 @@ function Item({ image, title, overview, ratings }) {
         <Text weight='bolder' relative>
           {title}
         </Text>
-        <Text color='#000000' height>
+        <Text color='#BFC0CE' height>
           {overview}
         </Text>
         <FAB>{ratings}</FAB>
